@@ -3,7 +3,7 @@ package Builder;
 /**
  * @author Kimberley Hommes
  */
-public class BestellingenDemo {
+public class BestellingenDemo { // Uitwerking van Builder, gemaakt met Petrina
 
     public static void main(String[] args) {
         Gerecht sliptong = new Gerecht("sliptong");

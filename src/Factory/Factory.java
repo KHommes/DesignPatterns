@@ -3,7 +3,7 @@ package Factory;
 /**
  * @author Kimberley Hommes
  */
-public class Factory {
+public class Factory { // uitwerking van Factory
     //
 
     public static void main(String[] args) {

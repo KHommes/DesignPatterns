@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author Kimberley Hommes
  */
-public class MementoDemo {
+public class MementoDemo { // uitwerking van Memento, in groepje gedaan
     public static void main(String[] args) {
 
         TekstVerwerker word = new TekstVerwerker();

@@ -3,7 +3,7 @@ package Encapsulation;
 /**
  * @author Kimberley Hommes
  */
-public class Encapsulation {
+public class Encapsulation { // uitwerking samen met Felix gemaakt
 // naam:
 // probleem: je kan misbruik maken van het invoerveld
 // uml onderdelen: access modifier / private field / public argument / parameter

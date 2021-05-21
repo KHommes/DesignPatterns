@@ -3,7 +3,7 @@ package Singleton;
 /**
  * @author Kimberley Hommes
  */
-public class Singleton {
+public class Singleton { // uitwerking van Singleton, samen met Felix gemaakt
     // naam Singleton.Singleton
     // probleem: zorgen dat je van een bepaalde classificering maar 1 object kan hebben
     // (bijv het object dat nieuwe BSN's maakt, want je wil dat landelijk maar 1 object vanuit

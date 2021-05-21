@@ -5,7 +5,7 @@ package OwnObserver;
 /**
  * @author Kimberley Hommes
  */
-public class Launcher {
+public class Launcher { // eigen probeersel van Observer
 
     public static void main(String[] args) {
 

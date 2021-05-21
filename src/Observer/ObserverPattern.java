@@ -12,7 +12,7 @@ import java.util.List;
  */
 
 
-public class ObserverPattern {
+public class ObserverPattern { // door Britt uitgewerkt voorbeeld van Observer (samen gedaan)
 
     public static void main(String[] args) {
 

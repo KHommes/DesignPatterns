@@ -3,7 +3,7 @@ package Command;
 /**
  * @author Kimberley Hommes
  */
-public class Command {
+public class Command { // uitwerking tegelijk met Felix gemaakt
     // probleem: buffer kunnen maken van opdrachten en die (langzamer) kunnen verwerken
     // aanpak
     // geprogrammeerd

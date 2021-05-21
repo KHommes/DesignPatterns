@@ -1,9 +1,9 @@
-package ServiceDesk;
+package Facade;
 
 /**
  * @author Kimberley Hommes
  */
-public class Launcher {
+public class Launcher { // uitwerking van Facade, met Bram gemaakt
     public static void main(String[] args) {
         HelpDesk helpDesk = new HelpDesk();
 

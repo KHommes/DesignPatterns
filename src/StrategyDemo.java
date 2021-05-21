@@ -1,4 +1,5 @@
-
+// Strategy
+// object op verschillende manier kunnen behandelen
 
 public class StrategyDemo {
     public static void main(String[] args) {

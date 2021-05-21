@@ -1,4 +1,4 @@
-package ServiceDesk;
+package Facade;
 
 public interface CustomerProblem {
 
